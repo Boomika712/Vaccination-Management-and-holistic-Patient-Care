@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618462469952",
+    "project_id": "vacmed-fa567",
+    "storage_bucket": "vacmed-fa567.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618462469952:android:b8bb2945411c9dda2424a5",
+        "android_client_info": {
+          "package_name": "com.example.vacmed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB553gFZVqyMPKEKJJCpuZ2B3gvpd2EgwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
