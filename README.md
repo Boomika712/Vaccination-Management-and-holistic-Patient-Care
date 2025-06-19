@@ -17,8 +17,6 @@ Firebase ensures real-time data synchronization, user authentication, and notifi
 
 <img src="https://github.com/user-attachments/assets/b2eeb812-ad13-491e-b768-2e51af7d25a9" alt="Alt Text" width="auto" height="500">
 
-<img src="https://github.com/user-attachments/assets/0fea3679-bd43-4a03-b8bf-7049392761d2" alt="Alt Text" width="auto" height="500">
-
 <img src="https://github.com/user-attachments/assets/c95dbb08-6dfc-4a22-9f9f-b9bdb7d6baf0" alt="Alt Text" width="auto" height="500">
 
 <img src="https://github.com/user-attachments/assets/091646f8-8f58-478a-890e-506d682fbdd3" alt="Alt Text" width="auto" height="500">
