@@ -15,18 +15,18 @@ Firebase ensures real-time data synchronization, user authentication, and notifi
 
 ## Result
 
-![Screenshot_20241231_114146](https://github.com/user-attachments/assets/b2eeb812-ad13-491e-b768-2e51af7d25a9)
+<img src="https://github.com/user-attachments/assets/b2eeb812-ad13-491e-b768-2e51af7d25a9" alt="Alt Text" width="auto" height="500">
 
-![Screenshot_20241231_114635](https://github.com/user-attachments/assets/0fea3679-bd43-4a03-b8bf-7049392761d2)
+<img src="https://github.com/user-attachments/assets/0fea3679-bd43-4a03-b8bf-7049392761d2" alt="Alt Text" width="auto" height="500">
 
-![Screenshot_20241228_230647](https://github.com/user-attachments/assets/c95dbb08-6dfc-4a22-9f9f-b9bdb7d6baf0)
+<img src="https://github.com/user-attachments/assets/c95dbb08-6dfc-4a22-9f9f-b9bdb7d6baf0" alt="Alt Text" width="auto" height="500">
 
-![Screenshot_20241228_230656](https://github.com/user-attachments/assets/091646f8-8f58-478a-890e-506d682fbdd3)
+<img src="https://github.com/user-attachments/assets/091646f8-8f58-478a-890e-506d682fbdd3" alt="Alt Text" width="auto" height="500">
 
-![Screenshot_20241231_113635](https://github.com/user-attachments/assets/a24e46d2-624e-41a7-ae5c-eff2c1445790)
+<img src="https://github.com/user-attachments/assets/a24e46d2-624e-41a7-ae5c-eff2c1445790" alt="Alt Text" width="auto" height="500">
 
-![Screenshot_20250108_100851 (1)](https://github.com/user-attachments/assets/54dc00b5-4535-414e-8016-41b457b58fd0)
+<img src="https://github.com/user-attachments/assets/54dc00b5-4535-414e-8016-41b457b58fd0" alt="Alt Text" width="auto" height="500">
 
-![Screenshot_20250103_211322 (1)](https://github.com/user-attachments/assets/781d25e6-5c08-4ae4-b6d4-193bf7d558c0)
+<img src="https://github.com/user-attachments/assets/781d25e6-5c08-4ae4-b6d4-193bf7d558c0" alt="Alt Text" width="auto" height="500">
 
 
